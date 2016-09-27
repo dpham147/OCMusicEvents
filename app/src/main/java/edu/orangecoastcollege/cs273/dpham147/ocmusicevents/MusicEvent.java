@@ -58,4 +58,4 @@ public class MusicEvent {
                     "8808 Irvine Center Drive\n" +
                     "Irvine, California 92618"
     };
-}}
+}
