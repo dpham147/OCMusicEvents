@@ -44,7 +44,7 @@ public class EventDetailsActivity extends AppCompatActivity {
             eventImageView.setImageDrawable(image);
         }
         catch (IOException exception) {
-            Log.e("OC Music Events", "Cannot load image: " + imageFileName + exception)
+            Log.e("OC Music Events", "Cannot load image: " + imageFileName + exception);
         }
 
         eventTitleTextView.setText(title);
